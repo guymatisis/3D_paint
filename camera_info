@@ -1,0 +1,42 @@
+-----------------
+xiaomi
+-----------------
+resolution = 3840x2160
+sensor size =5.11x3.84
+actual focal lenght =3.61 mm
+pixel size =1.27 micrometers
+
+
+-----------------
+logitech
+-----------------
+sensor size = 3.6x2.00 mm
+actual focal lenght =4.00mm 
+video res = 1280 x 960
+pixel size=1.39 micrometers
+FOV=60 deg
+
+
+-----------------
+equations
+-----------------
+focal length = half_image_size/tan(half FOV)  
+Fx = fx * W /w   Fx=focal length
+z = f*b / (xl - xr) = f*b/d   
+x = xl*z/f or b + xr*z/f
+y = yl*z/f or yr*z/f
+
+calibration:
+focal length in pixels: 467.  pixel size =1.27 micrometers. 467x.00000127=focal length = .6 milimeters
+
+from specs:
+ fx = Fsx: focal_length_x = focal_length x sensor_width
+fx = 4 milli x 3.6 milli = 14.4 milli
+focal_length x (num pix(x or y)/sensor_size(x or y)) = fx or fy. logitech = 1422 pix fx. = 1.97 mm
+from FOV:
+angle_FOV = 2xarctan(horizontal FOV(mm)/(2xZ))
+
+
+
+LOGITECH: 690/tan(30) =  1195(pixels) =1.67 mm
+

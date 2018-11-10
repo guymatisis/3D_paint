@@ -1,0 +1,5 @@
+/home/guy/Downloads/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/guy/CLionProjects/3d_paint
+-- Configuring done
+WARNING: Target "3d_paint" requests linking to directory "/usr/include/python2.7".  Targets may link only to libraries.  CMake is dropping the item.
+-- Generating done
+-- Build files have been written to: /home/guy/CLionProjects/3d_paint/cmake-build-debug
