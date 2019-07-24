@@ -1,10 +1,6 @@
-Computer Vision Final Project
+Written by
 Guy Matisis
-209682178
 
-Included in the archive is:
-1. all relevant code
-2. 3D_Paint.ODT - the project description
-3. power point....
-4. directory pictures containing all relevant pictures.
-5. directory videos containg videos of live demonstrations.
+This project creates a stereo-vision system with a laptop and two webcams. The stereo-vision system was then used to track a red ball in three dimensions and plot its path in real time in attempt to 'paint' in 3d with the ball. ultimately the project succeeded, but ran very slowly; making painting impractical due to lag.
+
+
