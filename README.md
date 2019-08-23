@@ -1,3 +1,5 @@
+#3D PAINT
+
 Written by
 Guy Matisis
 
@@ -12,5 +14,9 @@ The important files included:
 5.object detection -  the ball is detected and its X,Y coordinates are found.
 
 
+
+<div class="centered">
+<img src="https://github.com/guymatisis/3D_paint/blob/master/documentation/3d_paint_output.png" width="590" alt="Git Status With Shortcuts" />
+</div>
 
 
