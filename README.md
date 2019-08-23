@@ -1,4 +1,4 @@
-#3D PAINT
+# 3D PAINT
 
 Written by
 Guy Matisis
